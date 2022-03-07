@@ -1,0 +1,5 @@
+S -> XYZW
+X -> ZW | xX
+Y -> y 
+Z -> zZ | .
+W -> wW | .

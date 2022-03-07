@@ -1,0 +1,20 @@
+Value : x , Type : Identifier
+Value : = , Type : Assignment
+Value : 22 , Type : Number
+Value : + , Type : Operator
+Value : 44 , Type : Number
+Value : ; , Type : EndOfStatement
+Value : Hi there !!! , Type : String
+Value : ; , Type : EndOfStatement
+Value : Define , Type : Keyword, Description: Defining a variable
+Value : x1 , Type : Identifier
+Value : = , Type : Assignment
+Value : Hi there , Type : String
+Value : ; , Type : EndOfStatement
+Value : Update , Type : Keyword, Description: Updating a variable
+Value : x1 , Type : Identifier
+Value : = , Type : Assignment
+Value : See you later , Type : String
+Value : ; , Type : EndOfStatement
+Value : Print , Type : Keyword, Description: Printing on the screen
+Value : Hi , Type : String
